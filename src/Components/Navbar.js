@@ -6,7 +6,7 @@ function Navbar() {
     <Link to={"/"} className='nav__child'>
     <p className='nav_p'>Home</p>  
     </Link>
-    <Link to={"/AddStudent"} className='nav__child'>
+    <Link to={"/student"} className='nav__child'>
     <p className='nav_p'>Student</p>  
     </Link>
     <Link to={"/ContactUs"} className='nav__child'>
